@@ -1,8 +1,9 @@
-Привет всем) 
-Это проект по Анализу Данных от команды из 3 человек: 
-1) Мугур Милена Эккеровна, БЭК2210, группа 7 
-2) Хайдарзода Мехронахон, БЭК2210, группа 11
-3) Ганбаатар Ганжаргал, БЭК2210, группа 2
+Hello everyone,
+This is a project for the Data Analysis course.
+Milena Mugur, group BEC2210
 
-Вся информация в Проект__Оценка_стоимости_квартир_3.ipynb, а база данных в data_MO.csv
+All project materials are located in the file:
+Project__Housing_Price_Evaluation_3.ipynb
 
+The dataset is provided in:
+data_MO.csv
